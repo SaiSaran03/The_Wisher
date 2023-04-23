@@ -3,6 +3,7 @@ this tool helps you automate birthday wishes through whatapp
 
 
 requirements-
+please import the necessary modules
 log in to whatsapp in chrome
 paste all the codes in one folder
 
