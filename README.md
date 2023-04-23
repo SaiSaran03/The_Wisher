@@ -10,3 +10,5 @@ paste all the codes in one folder
 
 the main program is 'whatsapp_bday_message_from_scratch.py' run it
 
+suggestiosn and critisims are welcome
+
