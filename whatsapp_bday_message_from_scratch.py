@@ -77,6 +77,10 @@ for i in range(len(today_birthday)) :
     message_box.send_keys(text + Keys.RETURN)
     message_box.send_keys(Keys.ESCAPE)
     print("Done - {0}".format(i+1))
-
+    
+import os 
+for f in os.listdir():
+    if f.endswitch(".xlsx"):
+        os.remove(f)
 time.sleep(1)
 driver.quit()
